@@ -1,6 +1,6 @@
 {
   "name": "mongoose-simple-uuid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adding uuid to mongoose.js",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "mongoose",
     "uuid"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coolguy1990/mongoose-simple-uuid.git"
+  },
   "author": "Kunal Mangaraj <mangaraj.kunal@gmail.com>",
   "license": "MIT",
   "dependencies": {
